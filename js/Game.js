@@ -36,7 +36,7 @@ class Game {
     car2.addImage("car2img", car2Image);
 
     car3 = createSprite(500,200);
-    car3.addImage("car3img". car3Image);
+    car3.addImage("car3img", car3Image);
 
     car4 = createSprite(700,200);
     car4.addImage("car4img", car4Image);
